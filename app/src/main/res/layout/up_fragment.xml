@@ -5,9 +5,11 @@
     android:layout_height="match_parent">
 
     <EditText
+
         android:id="@+id/text_send"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:hint="Enter text"
         android:textColor="@color/black"
         android:textSize="40sp"
         android:layout_marginVertical="32dp"
